@@ -2,7 +2,7 @@
     {
       "title": "Weather App",
       "imageSrc": "projects/Weather-App.png",
-      "description": "Weather App capable of display weather conditions as well as an error message.",
+      "description": "Weather Website capable of displaying weather conditions as well as an error message if typed city name is incorrect.",
       "skills": ["JavaScript", "HTML", "CSS"],
       "demo": "https://omarahmed-01.github.io/Weather-App/",
       "source": "https://github.com/OmarAhmed-01/Weather-App"
