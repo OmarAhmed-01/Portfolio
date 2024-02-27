@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/Weather-App.png",
+      "description": "Weather App capable of display weather conditions as well as an error message.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://omarahmed-01.github.io/Weather-App/",
+      "source": "https://github.com/OmarAhmed-01/Weather-App"
+    },
+    {
+      "title": "Expense Tracker",
+      "imageSrc": "projects/Expense-Tracker.png",
+      "description": "A website that tracks income and expenses of the user.",
+      "skills": ["React", "JavaScript", "Node", "CSS"],
+      "demo": "https://omarahmed-01.github.io/Expense-Tracker/",
+      "source": "https://github.com/OmarAhmed-01/Expense-Tracker"
+    },
+    {
+      "title": "Pricing Plan",
+      "imageSrc": "projects/Pricing.png",
+      "description": "A UI design for a pricing plan using HTML & CSS",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://omarahmed-01.github.io/Pricing-Plan-UI/",
+      "source": "https://github.com/OmarAhmed-01/Pricing-Plan-UI"
+    }
+  ]

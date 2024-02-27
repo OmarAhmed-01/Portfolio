@@ -1,0 +1,42 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "NodeJS",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/c++.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
+    },
+    {
+      "title": "Arduino",
+      "imageSrc": "skills/arduino.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/js.png"
+    },
+    {
+      "title": "Mathematics",
+      "imageSrc": "skills/maths.png"
+    }
+  ]
