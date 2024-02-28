@@ -56,5 +56,9 @@
     border-radius: 100px;
     background: var(--color-primary);
     padding: 1px 22px;
-
+    transition: 0.4s ease-in-out;
+}
+.link:hover{
+    background-color: hsl(228, 43%, 44%);
+    transition: 0.4s ease-in-out;
 }

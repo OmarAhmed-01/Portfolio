@@ -49,6 +49,7 @@
     .menuBtn{
         cursor: pointer;
         display: block;
+        margin-right: -20px;
     }
     .menuItems{
         display: none;

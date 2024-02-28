@@ -55,6 +55,9 @@
         font-size: 20px;
     }
     .link a{
-        font-size: 25px;
+        font-size: 23px;
+    }
+    .link img{
+        width: 35px;
     }
 }

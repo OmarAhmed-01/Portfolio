@@ -38,6 +38,11 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    transition: 0.3s ease-in-out;
+}
+.contactBtn:hover{
+    background-color: hsl(228, 43%, 44%);
+    transition: 0.3s ease-in-out;
 }
 .image{
     width: 50%;
@@ -79,7 +84,8 @@
         align-items: center;
     }
     .desc{
-        text-align: center;
+        text-align: justify;
+        font-size: 20px;
     }
     .title{
         margin-top: 10px;

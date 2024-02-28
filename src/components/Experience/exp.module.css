@@ -99,4 +99,12 @@
         width: 100%;
         gap: 15px;
     }
+    .skillImgContainer{
+        width: 100px;
+        height: 100px;
+        margin-top: 20px;
+    }
+    .skillImgContainer img{
+        width: 60px;
+    }
 }
